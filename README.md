@@ -82,7 +82,7 @@ Pengguna adalah pelanggan atau kasir. Tidak memerlukan keahlian teknis.
 
 - Tidak menyimpan data
 - Tidak mendukung login atau multi-user
-- Tidak berbasis GUI
+- Tidak berbasis GUI (Graphical User Interface)
 
 ## 7. Lampiran
 
