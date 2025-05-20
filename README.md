@@ -94,4 +94,18 @@ Pengguna adalah pelanggan atau kasir. Tidak memerlukan keahlian teknis.
   ![Alur Sistem](gambar/alur.jpeg)
 
 - Screenshot Hasil Running:
-  
+  - menu
+ 
+    ![menu](gambar/menu.png)
+    
+  - input1
+ 
+    ![input1](gambar/input1.jpg)
+    
+  - input2
+ 
+    ![input2](gambar/input2.jpg)
+    
+  - struk
+ 
+    ![struk](gambar/Struk.jpg)
