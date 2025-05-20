@@ -90,6 +90,7 @@ Pengguna adalah pelanggan atau kasir. Tidak memerlukan keahlian teknis.
 - Struktur file:
   - `menu.py`, `order.py`, `main.py`
 - Alur sistem:
+  
   ![Alur Sistem](gambar/alur.jpeg)
 
 - Screenshot Hasil Running:
