@@ -1,13 +1,11 @@
 ## SISTEM PEMESANAN MAKANAN SEDERHANA
 
----
 
 ### Disusun oleh:  
 Deri 2310511013
 Moh. Alfariz 2310511017
 Ludy Haryanto 2310511019
 
----
 
 ## 1. Pendahuluan
 
@@ -30,7 +28,6 @@ Sistem ini memungkinkan pengguna untuk:
 | User | Pengguna akhir aplikasi |
 | Admin | Pemilik/pengelola sistem |
 
----
 
 ## 2. Deskripsi Umum
 
@@ -46,7 +43,6 @@ Sistem standalone berbasis Python CLI, tidak memerlukan koneksi internet atau da
 ### 2.3 Karakteristik Pengguna
 Pengguna adalah pelanggan atau kasir. Tidak memerlukan keahlian teknis.
 
----
 
 ## 3. Kebutuhan Fungsional
 
@@ -56,7 +52,6 @@ Pengguna adalah pelanggan atau kasir. Tidak memerlukan keahlian teknis.
 | RF002 | Tambah Pesanan | Pengguna memilih makanan berdasarkan kode. |
 | RF003 | Tampilkan Struk | Sistem menampilkan total dan daftar pesanan. |
 
----
 
 ## 4. Kebutuhan Non-Fungsional
 
@@ -66,7 +61,6 @@ Pengguna adalah pelanggan atau kasir. Tidak memerlukan keahlian teknis.
 | RNF002 | Berjalan pada Python 3.x |
 | RNF003 | Antarmuka berbasis teks sederhana |
 
----
 
 ## 5. Antarmuka Sistem
 
@@ -80,15 +74,12 @@ Pengguna adalah pelanggan atau kasir. Tidak memerlukan keahlian teknis.
 - Interpreter Python
 - Tidak memerlukan library eksternal
 
----
 
 ## 6. Batasan Sistem
 
 - Tidak menyimpan data
 - Tidak mendukung login atau multi-user
 - Tidak berbasis GUI
-
----
 
 ## 7. Lampiran
 
