@@ -14,6 +14,7 @@
 
 ### 1.1 Tujuan
 Dokumen ini menjelaskan kebutuhan fungsional dan non-fungsional dari aplikasi **Sistem Pemesanan Makanan Sederhana** berbasis Python CLI. Aplikasi ini dikembangkan sebagai simulasi proses pemesanan makanan.
+Tujuan dari pembuatan sistem ini adalah untuk memberikan gambaran dasar tentang bagaimana proses pemesanan makanan dapat diimplementasikan secara digital, mempermudah pencatatan pesanan, dan membantu pengguna memahami konsep pemrograman dasar dengan Python dalam konteks sistem nyata.
 
 ### 1.2 Lingkup
 Sistem ini memungkinkan pengguna untuk:
