@@ -2,9 +2,12 @@
 
 
 ### Disusun oleh:  
-Deri 2310511013
-Moh. Alfariz 2310511017
-Ludy Haryanto 2310511019
+
+| Nama | NIM |
+|--------|------|
+| Deri | 2310511013 |
+| Moh. Alfariz | 2310511017 |
+| Ludy Haryanto | 2310511019 |
 
 
 ## 1. Pendahuluan
